@@ -36,7 +36,7 @@ dir
 
 ## Displaying Images
 
-![Hosted Image] https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?cs=srgb&dl=action-asphalt-auto-210019.jpg&fm=jpg
+![Hosted image](https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?cs=srgb&dl=action-asphalt-auto-210019.jpg&fm=jpg)
 
 
 ## Paragraph
